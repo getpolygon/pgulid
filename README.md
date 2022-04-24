@@ -26,7 +26,7 @@ A ULID however:
 ## Usage
 
 ```sql
-SELECT generate_ulid(); -- Output: 01D45VGTV648329YZFE7HYVGWC
+SELECT gen_ulid(); -- Output: 01D45VGTV648329YZFE7HYVGWC
 ```
 
 ## Specification
